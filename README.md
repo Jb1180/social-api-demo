@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Node.js (v18.0.0 or later)
 - npm (v8.0.0 or later)
-- An [Ayrshare](https://app.ayrshare.com) account and an [Ayrshare API key](https://docs.ayrshare.com/rest-api/overview#watch-how-to-use-the-social-api)
+- An [Ayrshare](https://app.ayrshare.com) account and an [Ayrshare API key](https://www.ayrshare.com/docs/apis/overview#watch-how-to-use-the-social-api)
 
 ## Installation
 
@@ -109,9 +109,9 @@ This project uses the following license: [MIT License](https://opensource.org/li
 
 If you want to contact us, you can reach us via chat at <https://www.ayrshare.com>.
 
-## Acknowledgements
+## Packages
 
-- [Ayrshare](https://www.ayrshare.com) for providing the social media posting API.
+- [Ayrshare](https://www.ayrshare.com) for providing the social media posting API. Ayrshare [social media API](https://www.ayrshare.com/docs)
 - [React](https://reactjs.org/)
 - [Chakra UI](https://chakra-ui.com/)
 - [Node.js](https://nodejs.org/)
